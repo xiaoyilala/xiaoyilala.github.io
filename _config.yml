@@ -105,8 +105,8 @@ friends: [
         title: "简书",
         href: "http://www.jianshu.com/"
     },{
-        title: "Apple",
-        href: "https://apple.com"
+        title: "目录结构",
+        href: "https://www.jekyll.com.cn/docs/structure/"
     },{
         title: "Apple Developer",
         href: "https://developer.apple.com/"
